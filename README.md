@@ -10,7 +10,7 @@
 
 ## Tämän sivuston sisältö:
 
-1. (Gitin käytön aloittaminen)[git-notes.md]
-2. (Tiedostojen lisääminen)[git-notes.md#aloitus]
-3. (Linkittäminen Githubiin)[git-github.md]
-4. (Branchien käyttö)[git-branch.md]
+1. [Gitin käytön aloittaminen](git-notes.md)
+2. [Tiedostojen lisääminen](git-notes.md#aloitus)
+3. [Linkittäminen Githubiin](git-github.md)
+4. [Branchien käyttö](git-branch.md)
