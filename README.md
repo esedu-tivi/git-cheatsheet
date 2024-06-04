@@ -1,3 +1,5 @@
+![image](https://github.com/esedu-tivi/git-cheatsheet/assets/25579111/6da121af-4fbc-453a-af94-7e47083fc3a3)
+
 # Git- ja Github
 
 Mitä ne ovat ja miksi ne ovat tärkeitä?
@@ -26,8 +28,6 @@ Parantaa projektin hallittavuutta ja luotettavuutta.
 ## Yhteenveto
 Git ja Github ovat välttämättömiä työkaluja ohjelmistokehityksessä.
 Helpottavat versionhallintaa ja yhteistyötä.
-Seuraavassa videossa: Gitin asennus ja perusasetukset.
-![image](https://github.com/esedu-tivi/git-cheatsheet/assets/25579111/6da121af-4fbc-453a-af94-7e47083fc3a3)
 
 ## Tämän sivuston sisältö:
 
