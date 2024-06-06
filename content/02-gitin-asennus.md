@@ -1,4 +1,4 @@
-    # Gitin asentaminen ja perusasetukset
+# Gitin asentaminen ja perusasetukset
 
 ## Asennus
 
@@ -78,4 +78,6 @@ Anna terminaaliin komento:
 ssh-keygen -t ed25519 -C "sahkoposti@esimerkki.com"
 ```
 
-Seuraa ohjeita ja tallenna avain oletuspolkuu
+Tämän jälkeen sinulta kysytään, mihin tiedostoon avain tallennetaan. Voit jättää oletusarvon painamalla Enteriä. Tämän jälkeen sinulta kysytään salasanaa, mutta voit jättää sen tyhjäksi painamalla Enteriä. Avain on nyt luotu ja tallennettu kotihakemistoosi.
+
+Lisää julkinen avain GitHub-tilillesi. Kopioi julkinen avain ja liitä se GitHub-tilillesi kohdassa Settings -> SSH and GPG keys -> New SSH key.
