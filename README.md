@@ -5,16 +5,16 @@
 1. [Mitä ovat Git ja Github?](./content/01-git-ja-github.md)
 2. [Gitin käytön aloittaminen](./content/02-gitin-asennus.md)
 3. [Git-repositorion luominen ja kloonaus](./content/03-git-repositorion-luominen-ja-kloonaus.md)
-4. Gitin peruskomennot - Osa 1
+4. [Gitin peruskomennot - Osa 1](./content/04-gitin-peruskomennot-osa-1.md)
   - git add, git commit
   - Työskentely paikallisesti
-5. Gitin peruskomennot - Osa 2
+5. [Gitin peruskomennot - Osa 2](./content/05-gitin-peruskomennot-osa-2.md)
   - git status, git log, git diff
   - Miten seurata muutoksia
-6. Uuden repositorion luominen Githubissa
+6. [Uuden repositorion luominen Githubissa](./content/06-uuden-repositorion-luominen-githubissa.md)
   - Repositorion luominen Github-sivustolla
   - Paikallisen repositorion linkittäminen Github-repositorioon
-7. Perusoperaatiot Githubissa
+7. [Perusoperaatiot Githubissa](./content/07-perusoperaatiot-githubissa.md)
   - Push ja pull komennot
   - Miten synkronoida paikalliset ja etävarastot
 8. Issues ja Wikis
