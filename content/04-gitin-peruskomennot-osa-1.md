@@ -34,8 +34,6 @@ Voit myös vaihtaa oletuseditorin seuraavasti:
 git config --global core.editor "nano" # Vaihtaa oletuseditorin Nanoksi
 ```
 
-```bash
-
 ## Harjoitus
 
 1. Luo uusi Git-repositorio paikallisesti.
